@@ -32,4 +32,7 @@ Helpful Commands
 
     create a new resource:
         rails g resource Api::article title body imageUrl
+        
+    delete a resource:
+    rails d resource Api::article title body imageUrl
 
