@@ -31,5 +31,5 @@ Helpful Commands
         rails new article-api --api -G -d=postgresql
 
     create a new resource:
-        rails g resource Api::article title year:integer imageUrl
+        rails g resource Api::article title body imageUrl
 
